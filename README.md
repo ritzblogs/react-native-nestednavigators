@@ -1,11 +1,8 @@
 # react-native-nestednavigators
 
-![demo](https://i.ibb.co/9sVZhx8/Screenshot-2020-06-16-21-18-23-29.jpg)  
-![demo](https://i.ibb.co/Bf1xqXB/Screenshot-2020-06-16-21-18-52-03.jpg)  
-![demo](https://i.ibb.co/Rhh652P/Screenshot-2020-06-16-21-19-02-93.jpg)  
-![demo](https://i.ibb.co/8DGs0FS/Screenshot-2020-06-16-21-19-32-54.jpg)  
-![demo](https://i.ibb.co/Gdd9HNN/Screenshot-2020-06-16-21-19-43-38.jpg)  
-![demo](https://i.ibb.co/BLC57c8/Screenshot-2020-06-16-21-19-56-57.jpg)  
+<p align="center">
+  <img width="400" height="800" src="https://i.ibb.co/9sVZhx8/Screenshot-2020-06-16-21-18-23-29.jpg">
+</p>
 
 ## Install at local
 Open Terminal, then type command:  
