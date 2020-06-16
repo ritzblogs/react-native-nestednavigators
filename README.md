@@ -1,30 +1,30 @@
 # react-native-nestednavigators
 
 <p align="center">
-  <img width="400" height="600" src="https://github.com/ritzblogs/react-native-nestednavigators/blob/master/Screenshot_2020-06-16-21-18-23-29.jpg">
+  <img width="300" height="600" src="https://github.com/ritzblogs/react-native-nestednavigators/blob/master/Screenshot_2020-06-16-21-18-23-29.jpg">
 </p>
 
 <p align="center">
-  <img width="400" height="600" src="https://github.com/ritzblogs/react-native-nestednavigators/blob/master/Screenshot_2020-06-16-21-18-52-03.jpg">
+  <img width="300" height="600" src="https://github.com/ritzblogs/react-native-nestednavigators/blob/master/Screenshot_2020-06-16-21-18-52-03.jpg">
 </p>
 
 <p align="center">
-  <img width="400" height="600" src="https://github.com/ritzblogs/react-native-nestednavigators/blob/master/Screenshot_2020-06-16-21-19-02-93.jpg">
-</p>
-
-
-<p align="center">
-  <img width="400" height="600" src="https://github.com/ritzblogs/react-native-nestednavigators/blob/master/Screenshot_2020-06-16-21-19-32-54.jpg">
+  <img width="300" height="600" src="https://github.com/ritzblogs/react-native-nestednavigators/blob/master/Screenshot_2020-06-16-21-19-02-93.jpg">
 </p>
 
 
 <p align="center">
-  <img width="400" height="600" src="https://github.com/ritzblogs/react-native-nestednavigators/blob/master/Screenshot_2020-06-16-21-19-56-57.jpg">
+  <img width="300" height="600" src="https://github.com/ritzblogs/react-native-nestednavigators/blob/master/Screenshot_2020-06-16-21-19-32-54.jpg">
 </p>
 
 
 <p align="center">
-  <img width="400" height="600" src="https://github.com/ritzblogs/react-native-nestednavigators/blob/master/Screenshot_2020-06-16-21-19-43-38.jpg">
+  <img width="300" height="600" src="https://github.com/ritzblogs/react-native-nestednavigators/blob/master/Screenshot_2020-06-16-21-19-56-57.jpg">
+</p>
+
+
+<p align="center">
+  <img width="300" height="600" src="https://github.com/ritzblogs/react-native-nestednavigators/blob/master/Screenshot_2020-06-16-21-19-43-38.jpg">
 </p>
 
 
