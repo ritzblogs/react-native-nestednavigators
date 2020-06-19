@@ -27,6 +27,7 @@
   <img width="300" height="600" src="https://github.com/ritzblogs/react-native-nestednavigators/blob/master/Screenshot_2020-06-16-21-19-43-38.jpg">
 </p>
 
+Find detailed description - https://abodeofmystories.blogspot.com/2020/06/react-native-nesting-navigators.html
 
 ## Install at local
 Open Terminal, then type command:  
